@@ -20,8 +20,8 @@
     "flex"
   ],
   "engines": {
-    "node": ">=8",
-    "npm": ">=5"
+    "node": ">=20",
+    "npm": ">=11"
   },
   "scripts": {
     "build": "npm run build:clean && npm run build:library && npm run build:themes",
